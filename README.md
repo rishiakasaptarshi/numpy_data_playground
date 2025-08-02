@@ -1,4 +1,7 @@
 # numpy_data_playground
+
+***Interactive NumPy Playground for practicing array operations***
+
 Goal: A command-line interactive tool where users can:  
 - Generate random 1D/2D/3D arrays
 - Perform arithmetic operations (add, subtract, multiply, divide)
